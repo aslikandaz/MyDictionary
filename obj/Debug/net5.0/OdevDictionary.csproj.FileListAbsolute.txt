@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\obj\Debug\net5.0\OdevDictionary.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\obj\Debug\net5.0\OdevDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\obj\Debug\net5.0\OdevDictionary.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\obj\Debug\net5.0\OdevDictionary.AssemblyInfo.cs
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\obj\Debug\net5.0\OdevDictionary.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\bin\Debug\net5.0\OdevDictionary.exe
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\bin\Debug\net5.0\OdevDictionary.deps.json
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\bin\Debug\net5.0\OdevDictionary.runtimeconfig.json
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\bin\Debug\net5.0\OdevDictionary.runtimeconfig.dev.json
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\bin\Debug\net5.0\OdevDictionary.dll
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\bin\Debug\net5.0\ref\OdevDictionary.dll
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\bin\Debug\net5.0\OdevDictionary.pdb
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\obj\Debug\net5.0\OdevDictionary.dll
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\obj\Debug\net5.0\ref\OdevDictionary.dll
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\obj\Debug\net5.0\OdevDictionary.pdb
+C:\Users\PC\source\repos\4.HaftaOdevler\OdevDictionary\obj\Debug\net5.0\OdevDictionary.genruntimeconfig.cache

@@ -11,7 +11,6 @@ namespace OdevDictionary
             myDictionary.Add(2, "halime");
             myDictionary.Add(3, "ayşe");
             myDictionary.Add(4, "fatma");
-           
 
             Console.WriteLine(myDictionary.Length);
         }
